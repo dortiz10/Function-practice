@@ -1,3 +1,20 @@
 {
-  "files": {}
+  "files": {
+    "add_fruit.py": [
+      {
+        "id": "5129c6cb-6539-4db3-b3e3-84cd20d8a441",
+        "line": 1,
+        "version": 5,
+        "index": 0
+      }
+    ],
+    "main.py": [
+      {
+        "id": "860a07cf-c8a2-4672-9eb0-41e7336670fb",
+        "line": 21,
+        "version": 833,
+        "index": 638
+      }
+    ]
+  }
 }
